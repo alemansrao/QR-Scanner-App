@@ -1,6 +1,6 @@
-# qr_scanner
+# QR Scanner
 
-A new Flutter project.
+Flutter App for Designed to work for Online QR Based Attendnce
 
 ## Getting Started
 
