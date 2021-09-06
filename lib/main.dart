@@ -85,7 +85,7 @@ class ScanningPage extends StatelessWidget {
         
       ),
       body: WebView(
-        initialUrl: 'http://192.168.43.59/Project-root/scan.php?qrcode='+result,
+        initialUrl: 'http://192.168.121.54/Project-root/scan.php?qrcode='+result,
         onWebViewCreated: (WebViewController webViewController) {
           _controller.complete(webViewController);
         },
