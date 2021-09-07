@@ -1,6 +1,6 @@
 # QR Scanner
 
-Flutter App for Designed to work for Online QR Based Attendnce
+Flutter App for Designed to work with Online QR Based Attendnce Plateform
 
 ## Getting Started
 
